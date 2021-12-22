@@ -1,0 +1,4 @@
+displayName = Another Clicker Addon
+author = DJEN
+version = 0.1
+includePDB = false
